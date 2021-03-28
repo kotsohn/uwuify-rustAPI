@@ -3,7 +3,7 @@ My (very primitive) attempt at using [uwu](https://github.com/Daniel-Liu-c0deb0t
 used for https://uwupedia.org/
 
 
-this took way longer than it should've
+this took way longer than it should've (my first Rust thing ever)
 
 Usage:
 
