@@ -15,4 +15,4 @@ this will return plain text
 
 Used in:
 
-[uwupedia](http://uwupedia.org/): the uwuified encycwopedia
+[uwupedia](https://uwupedia.org/): the uwuified encycwopedia
